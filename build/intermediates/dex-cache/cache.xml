@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\b7a51e50813da03a5a6f82c9d2d889c1383608b0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="F:\Paytm_Android_App_Kit-master\SampleMerchantApp\app\build\intermediates\pre-dexed\debug\classes_43a48f79cea4ce2479a318f6c685716ac3493511.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\dc3ed10225ea1ca8b67c189f85fa47437abbe1de\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="F:\Paytm_Android_App_Kit-master\SampleMerchantApp\app\build\intermediates\pre-dexed\debug\classes_12a1b7d3d67b1611a87e8cd06b2f560ff478081e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Paytm_Android_App_Kit-master\SampleMerchantApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="F:\Paytm_Android_App_Kit-master\SampleMerchantApp\app\build\intermediates\pre-dexed\debug\instant-run_2e4c71ec94925af1c85b71f2c130f30f2524cadf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\a9432e153f52b297c7eaac9e235900b445b56140\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="F:\Paytm_Android_App_Kit-master\SampleMerchantApp\app\build\intermediates\pre-dexed\debug\classes_dcb7235ce4fbb6c41f3f1bb46249b7df887733b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\ade9ffc3983216511c0e38f85972100d443bda94\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="F:\Paytm_Android_App_Kit-master\SampleMerchantApp\app\build\intermediates\pre-dexed\debug\classes_dbc7bd7ed4521c73a73a2dce205ad6574011eb99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\f779c1e138ed519400619abb72aa9c2f084b6e37\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="F:\Paytm_Android_App_Kit-master\SampleMerchantApp\app\build\intermediates\pre-dexed\debug\classes_4dbb771e568cb5857a96b320bb8f9815c3c6c55e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Paytm_Android_App_Kit-master\SampleMerchantApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b0f07957a4ac654709cd826d2481b0ddb35234f9">
+        <dex dex="F:\Paytm_Android_App_Kit-master\SampleMerchantApp\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_4083312b6466ebe3514ef1b0ee80e34ea8b81a06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="F:\Paytm_Android_App_Kit-master\SampleMerchantApp\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_00a790885d947ca2d9e16dabd8a0d435e9287d14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\c13e517e67e793172426c3fbb5eef96c4be3d01d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\Paytm_Android_App_Kit-master\SampleMerchantApp\app\build\intermediates\pre-dexed\debug\classes_f7eb528ae95e798336ac89434a56af9ccbd1237a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Paytm_Android_App_Kit-master\SampleMerchantApp\app\libs\PGSDK_V2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ac7573d38f31559f8f027eb698769d3ebad40b64">
+        <dex dex="F:\Paytm_Android_App_Kit-master\SampleMerchantApp\app\build\intermediates\pre-dexed\debug\PGSDK_V2.0_1281c56e7ea54b6321f7ab5a1db1470fb4a98130.jar" />
+    </item>
+
+</items>

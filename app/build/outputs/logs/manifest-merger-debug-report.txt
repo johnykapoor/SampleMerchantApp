@@ -1,0 +1,94 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\Paytm_Android_App_Kit-master\SampleMerchantApp\app\src\main\AndroidManifest.xml:1:1-32:12
+	package
+		ADDED from F:\Paytm_Android_App_Kit-master\SampleMerchantApp\app\src\main\AndroidManifest.xml:2:5-38
+		INJECTED from F:\Paytm_Android_App_Kit-master\SampleMerchantApp\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Paytm_Android_App_Kit-master\SampleMerchantApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from F:\Paytm_Android_App_Kit-master\SampleMerchantApp\app\src\main\AndroidManifest.xml:4:5-30
+		INJECTED from F:\Paytm_Android_App_Kit-master\SampleMerchantApp\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Paytm_Android_App_Kit-master\SampleMerchantApp\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from F:\Paytm_Android_App_Kit-master\SampleMerchantApp\app\src\main\AndroidManifest.xml:3:5-28
+		INJECTED from F:\Paytm_Android_App_Kit-master\SampleMerchantApp\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Paytm_Android_App_Kit-master\SampleMerchantApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\Paytm_Android_App_Kit-master\SampleMerchantApp\app\src\main\AndroidManifest.xml:1:11-69
+uses-sdk
+ADDED from F:\Paytm_Android_App_Kit-master\SampleMerchantApp\app\src\main\AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.android\build-cache\c13e517e67e793172426c3fbb5eef96c4be3d01d\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Administrator\.android\build-cache\f779c1e138ed519400619abb72aa9c2f084b6e37\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Administrator\.android\build-cache\b7a51e50813da03a5a6f82c9d2d889c1383608b0\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Administrator\.android\build-cache\a9432e153f52b297c7eaac9e235900b445b56140\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Administrator\.android\build-cache\ade9ffc3983216511c0e38f85972100d443bda94\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator\.android\build-cache\dc3ed10225ea1ca8b67c189f85fa47437abbe1de\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.android\build-cache\c13e517e67e793172426c3fbb5eef96c4be3d01d\output\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		ADDED from F:\Paytm_Android_App_Kit-master\SampleMerchantApp\app\src\main\AndroidManifest.xml:8:9-38
+		INJECTED from F:\Paytm_Android_App_Kit-master\SampleMerchantApp\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Paytm_Android_App_Kit-master\SampleMerchantApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from F:\Paytm_Android_App_Kit-master\SampleMerchantApp\app\src\main\AndroidManifest.xml:7:9-34
+		INJECTED from F:\Paytm_Android_App_Kit-master\SampleMerchantApp\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Paytm_Android_App_Kit-master\SampleMerchantApp\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from F:\Paytm_Android_App_Kit-master\SampleMerchantApp\app\src\main\AndroidManifest.xml:10:2-63
+	android:name
+		ADDED from F:\Paytm_Android_App_Kit-master\SampleMerchantApp\app\src\main\AndroidManifest.xml:10:19-61
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from F:\Paytm_Android_App_Kit-master\SampleMerchantApp\app\src\main\AndroidManifest.xml:11:2-75
+	android:name
+		ADDED from F:\Paytm_Android_App_Kit-master\SampleMerchantApp\app\src\main\AndroidManifest.xml:11:19-73
+application
+ADDED from F:\Paytm_Android_App_Kit-master\SampleMerchantApp\app\src\main\AndroidManifest.xml:13:5-30:19
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.android\build-cache\c13e517e67e793172426c3fbb5eef96c4be3d01d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Administrator\.android\build-cache\f779c1e138ed519400619abb72aa9c2f084b6e37\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Administrator\.android\build-cache\b7a51e50813da03a5a6f82c9d2d889c1383608b0\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Administrator\.android\build-cache\a9432e153f52b297c7eaac9e235900b445b56140\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Administrator\.android\build-cache\ade9ffc3983216511c0e38f85972100d443bda94\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator\.android\build-cache\dc3ed10225ea1ca8b67c189f85fa47437abbe1de\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from F:\Paytm_Android_App_Kit-master\SampleMerchantApp\app\src\main\AndroidManifest.xml:16:9-41
+	android:allowBackup
+		ADDED from F:\Paytm_Android_App_Kit-master\SampleMerchantApp\app\src\main\AndroidManifest.xml:14:9-35
+	android:icon
+		ADDED from F:\Paytm_Android_App_Kit-master\SampleMerchantApp\app\src\main\AndroidManifest.xml:15:9-45
+	android:theme
+		ADDED from F:\Paytm_Android_App_Kit-master\SampleMerchantApp\app\src\main\AndroidManifest.xml:17:9-40
+activity#com.example.merchantapp.MerchantActivity
+ADDED from F:\Paytm_Android_App_Kit-master\SampleMerchantApp\app\src\main\AndroidManifest.xml:18:9-25:20
+	android:label
+		ADDED from F:\Paytm_Android_App_Kit-master\SampleMerchantApp\app\src\main\AndroidManifest.xml:20:13-45
+	android:name
+		ADDED from F:\Paytm_Android_App_Kit-master\SampleMerchantApp\app\src\main\AndroidManifest.xml:19:13-45
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\Paytm_Android_App_Kit-master\SampleMerchantApp\app\src\main\AndroidManifest.xml:21:13-24:29
+action#android.intent.action.MAIN
+ADDED from F:\Paytm_Android_App_Kit-master\SampleMerchantApp\app\src\main\AndroidManifest.xml:22:17-68
+	android:name
+		ADDED from F:\Paytm_Android_App_Kit-master\SampleMerchantApp\app\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\Paytm_Android_App_Kit-master\SampleMerchantApp\app\src\main\AndroidManifest.xml:23:17-76
+	android:name
+		ADDED from F:\Paytm_Android_App_Kit-master\SampleMerchantApp\app\src\main\AndroidManifest.xml:23:27-74
+activity#com.paytm.pgsdk.PaytmPGActivity
+ADDED from F:\Paytm_Android_App_Kit-master\SampleMerchantApp\app\src\main\AndroidManifest.xml:26:9-29:74
+	android:screenOrientation
+		ADDED from F:\Paytm_Android_App_Kit-master\SampleMerchantApp\app\src\main\AndroidManifest.xml:28:13-49
+	android:configChanges
+		ADDED from F:\Paytm_Android_App_Kit-master\SampleMerchantApp\app\src\main\AndroidManifest.xml:29:13-72
+	android:name
+		ADDED from F:\Paytm_Android_App_Kit-master\SampleMerchantApp\app\src\main\AndroidManifest.xml:27:13-59
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.android\build-cache\c13e517e67e793172426c3fbb5eef96c4be3d01d\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Administrator\.android\build-cache\f779c1e138ed519400619abb72aa9c2f084b6e37\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Administrator\.android\build-cache\b7a51e50813da03a5a6f82c9d2d889c1383608b0\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Administrator\.android\build-cache\a9432e153f52b297c7eaac9e235900b445b56140\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Administrator\.android\build-cache\ade9ffc3983216511c0e38f85972100d443bda94\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator\.android\build-cache\dc3ed10225ea1ca8b67c189f85fa47437abbe1de\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.android\build-cache\c13e517e67e793172426c3fbb5eef96c4be3d01d\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.android\build-cache\c13e517e67e793172426c3fbb5eef96c4be3d01d\output\AndroidManifest.xml:26:9-47
